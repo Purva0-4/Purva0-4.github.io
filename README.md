@@ -1,4 +1,4 @@
-[index (1).html](https://github.com/user-attachments/files/29932079/index.1.html)
+[index (2).html](https://github.com/user-attachments/files/29932123/index.2.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -364,7 +364,7 @@
   <div class="hero-links">
     <a class="btn btn-primary" href="#projects">View projects</a>
     <a class="btn btn-ghost" href="https://github.com/Purva0-4" target="_blank" rel="noopener">GitHub ↗</a>
-    <a class="btn btn-ghost" href="https://www.linkedin.com/in/purvapatel-990161243" target="_blank" rel="noopener">LinkedIn ↗</a>
+    <a class="btn btn-ghost" href="https://www.linkedin.com/in/purva-patel-990161243" target="_blank" rel="noopener">LinkedIn ↗</a>
   </div>
 </div>
 
@@ -596,9 +596,9 @@
       <div class="contact-label">EMAIL</div>
       <div class="contact-value">32purvapatel@gmail.com</div>
     </a>
-    <a class="contact-card" href="https://www.linkedin.com/in/purvapatel-990161243" target="_blank" rel="noopener">
+    <a class="contact-card" href="https://www.linkedin.com/in/purva-patel-990161243" target="_blank" rel="noopener">
       <div class="contact-label">LINKEDIN</div>
-      <div class="contact-value">/in/purvapatel</div>
+      <div class="contact-value">/in/purva-patel</div>
     </a>
     <a class="contact-card" href="https://github.com/Purva0-4" target="_blank" rel="noopener">
       <div class="contact-label">GITHUB</div>
