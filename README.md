@@ -1,4 +1,4 @@
-[index (2).html](https://github.com/user-attachments/files/29932123/index.2.html)
+[index (3).html](https://github.com/user-attachments/files/29932194/index.3.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -359,7 +359,7 @@
 <div class="hero">
   <div class="boot-log" id="bootLog"></div>
   <h1 class="hero-name">Purva Patel</h1>
-  <div class="hero-role">Computer Science &amp; Cyber Security — BSc Hons, University of Greenwich</div>
+  <div class="hero-role">BSc Hons Computer Science &amp; Cyber Security — University of Greenwich, Graduate</div>
   <p class="hero-desc">Building practical, hands-on security work — from log analysis to vulnerability assessment — to back up a CV full of internships with proof I can actually do the job.</p>
   <div class="hero-links">
     <a class="btn btn-primary" href="#projects">View projects</a>
@@ -374,8 +374,8 @@
     <span class="block-title">About</span>
   </div>
   <div class="about-text">
-    <p>I'm a final-year <strong>Computer Science (Cyber Security)</strong> student who has spent the last few years getting exposure across the industry — internships and structured placements at <strong>Barclays, Vodafone, Tata Consultancy Services, Heathrow, Fujitsu, and Allianz</strong> — covering everything from accessible banking design to biometric authentication and IT security operations.</p>
-    <p>I'm now shifting from learning-about-security to doing-security: building labs, breaking things safely, and writing up what I find. I like taking things apart to understand them — I've assembled PCs, built home networks, and installed a security camera system from scratch.</p>
+    <p>I'm a recent <strong>Computer Science (Cyber Security)</strong> graduate who spent my degree getting exposure across the industry — internships and structured placements at <strong>Barclays, Vodafone, Tata Consultancy Services, Heathrow, Fujitsu, and Allianz</strong> — covering everything from accessible banking design to biometric authentication and IT security operations.</p>
+    <p>I'm now shifting from learning-about-security to doing-security: building labs, breaking things safely, and writing up what I find. I like taking things apart to understand them — I've assembled PCs, built home networks, and installed a security camera system from scratch. Looking for graduate opportunities in cyber security or IT.</p>
   </div>
 </section>
 
